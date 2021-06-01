@@ -1,1 +1,0 @@
-# google-codejam.github.io
